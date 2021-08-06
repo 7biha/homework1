@@ -32,6 +32,14 @@ When you've finished your homework, all you have to do is get it online.  To do 
 - In your browser, go to your Github repo for the homework. You should now see all of your completed homework there.  Once you confirmed you're homework is up online, you can:
 
 - Click on a new pull request. 
+
+## Publishing
+
+- Go to settings tab and then pages.
+![clone](publish.png)
+
+
+
     
     >**Pull requests** let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent, interested parties can review the set of changes, discuss potential modifications, and even push follow-up commits if necessary. We will be using pull requests to submit homework. 
     
