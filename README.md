@@ -59,3 +59,7 @@ When you've finished your homework, all you have to do is get it online.  To do 
 ![submit](https://i.imgur.com/hsDhlMD.png)
 
 - Click `Create Pull Request` to submit your work!
+
+## publish site
+- On your repository, click settings, pages, change `none` to `main` or `master` and then save.
+- copy the url and click `cde` to go back to code screen and add url
